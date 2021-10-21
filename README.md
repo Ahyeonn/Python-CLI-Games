@@ -3,7 +3,7 @@ Flash-Cards, Bear, Ninja, Cowboy, and ASCII art games that are created by using 
 
 
 ## URL to my game
-- Bear, Ninja, Cowboy
+- Bear, Ninja, Cowboy:
 https://replit.com/@AhyeonJeon1/Bear-Ninja-Cowboy#main.py
 
 - Flash Cards
